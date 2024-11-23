@@ -1,0 +1,10 @@
+CRUD
+
+//need UI
+Create (true)
+
+Read  (true)
+
+Update  (true)
+
+Delete  (false)
